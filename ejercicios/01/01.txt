@@ -1,0 +1,1 @@
+Dada la siguiente página web, estructurada en XHTML, aplicar las nuevas etiquetas semánticas de HTML5 donde sea conveniente, manteniendo el mismo aspecto visual (modificar la hoja de estilos si es necesario) y funcionalidad. Realizad también los cambios necesarios en la cabecera del documento (elemento <head>).
